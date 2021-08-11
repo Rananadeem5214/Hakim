@@ -153,8 +153,8 @@ print  """
 \033[1;97mVIP Tools with My user and pass
 \033[1;91m♦️🎇⚏⚏⚏🎡⚏⚏⚏🎇♦️♦️🎇⚏⚏⚏🎡⚏⚏⚏🎇♦️
  """
-CorrectUsername = "Hakim"
-CorrectPassword = "Sagar"
+CorrectUsername = "Shar"
+CorrectPassword = "03072878748"
 
 loop = 'true'
 while (loop == 'true'):
